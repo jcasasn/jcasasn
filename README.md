@@ -6,4 +6,4 @@ I study Statistics and Computer Science at the University of Toronto.
 
 I'm interested in data analysis and visualization.
 
-Also, I have a [portfolio](https://jcasasn.github.io/) listing some of my projects. <!-- , which include... -->
+Also, I have a [blog](https://jcasasn.github.io/) listing some of my projects. <!-- , which include... -->
