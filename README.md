@@ -3,6 +3,6 @@
 
 I study Statistics and Computer Science at the University of Toronto.
 
-I'm interested in data analysis and visualization.
+I'm interested in data science and analysis.
 
-Also, I have a [blog](https://www.jcasasn.github.io/) listing some of my projects. <!-- , which include... -->
+Also, I have a [blog](https://www.jcasasn.github.io/) listing some of my projects.
